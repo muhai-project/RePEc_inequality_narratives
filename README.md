@@ -8,4 +8,4 @@ These Twitter posts were published from the beginning of January 2010 to the end
 Our Twitter query was based on the [RePEc economists](https://twitter.com/i/lists/1087053821786947584/members) Twitter list of profiles and the following keyword filtering conditions: (unequal OR inequal OR inequalities OR inequality OR iniquity OR iniquities OR iniquitous OR disparity) lang:en -is:retweet from: [iterate on users in the RePEc economists list]<br><br>
 
 
-For additional information please contact: [Carlo R. M. A. Santagiustina - carlo.santagiustina@unive.it](mailto:carlo.santagiustina@unive.it)
+For additional information please contact: [Carlo R. M. A. Santagiustina - carlo.santagiustina@univiu.org](mailto:carlo.santagiustina@univiu.org)
