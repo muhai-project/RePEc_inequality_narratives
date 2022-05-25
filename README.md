@@ -5,7 +5,7 @@ This dataset has been collected for the MUHAI project, in relation to the creati
 This dataset is used in the working paper titled "How RePEc economists conceptualise and discuss inequalities on Twitter", by Carlo R. M. A. Santagiustina. <br><br>
 Tweets in this dataset can be freely retrieved, with their [IDs](), using the GET /2/tweets/:id API endpoint (more info at this link: https://developer.twitter.com/en/docs/twitter-api/tweets/lookup/api-reference/get-tweets-id).<br><br>
 These Twitter posts were published from the beginning of February 2012 to the beginning of May 2020. <br><br> They were collected with R using the [Twitter FullArchive API endpoint V2](). <br><br>
-Our Twitter query was based on the [RePEc](https://twitter.com/i/lists/1087053821786947584/members) Twitter list of profiles and the following keyword filtering conditions: <br><br>
+Our Twitter query was based on the [RePEc economists](https://twitter.com/i/lists/1087053821786947584/members) Twitter list of profiles and the following keyword filtering conditions: (unequal OR inequal OR inequalities OR inequality OR iniquity OR iniquities OR iniquitous OR disparity) lang:en -is:retweet from: [iterate on users in the RePEc economists list]<br><br>
 
 
 For additional information please contact: [Carlo R. M. A. Santagiustina - carlo.santagiustina@unive.it](mailto:carlo.santagiustina@unive.it)
