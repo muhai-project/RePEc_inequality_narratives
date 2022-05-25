@@ -1,3 +1,6 @@
+[![DOI](https://sandbox.zenodo.org/badge/496327256.svg)](https://sandbox.zenodo.org/badge/latestdoi/496327256)
+
+
 # DATASET: RePEc inequality narratives on Twitter
 
 This repostiory contains the list of Tweet IDs of the Tweets about inequality published by economists in the RePEc list. 
